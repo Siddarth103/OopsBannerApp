@@ -1,4 +1,4 @@
-public class OOPSBannerApp {
+public class App {
     public static void main(String[] args) {
         String O1 = " ***** ";
         String O2 = "*     *";
